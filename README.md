@@ -5,6 +5,7 @@ YOU MUST SIGN UP FOR A FREE ACCOUNT ON https://singlelogin.app/registration.php 
 This just automates the downloads. 
 
 Paste your username in line: 40 of main.py
+
 Paste the password in line 42 of main.py
 
 
